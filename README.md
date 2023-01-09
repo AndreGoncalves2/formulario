@@ -17,6 +17,6 @@ Um exemplo comum de um formulário, pode ser usado em diversos projetos maiores 
 
 ## Principais funcionalidades:
 
-- Captura dados através de campos preenchidos pelo usuário 📝
+- Capturar dados através de campos preenchidos pelo usuário 📝
 
 Clique para visualizar o projeto online: <a href="https://andregoncalves2.github.io/formulario/">projeto</a>
