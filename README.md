@@ -13,7 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Um exemplo comum de um formulário, pode ser usado em diversos projetos maiores 🚀
+Um exemplo comum de um formulário não responsivo, pode ser usado em diversos projetos maiores 🚀
 
 ## Principais funcionalidades:
 
